@@ -1,7 +1,7 @@
 ## everynet-log-decluster
 
-1. Execute o ambiente virtual incluído no repositório:
-python -m venv /diretório/salvo/everynet-log-decluster/
+1. Instale os pré-requisitos em seu ambiente virtual
+python -m pip install -r requirements.txt
 
 2. Execute o arquivo .py
 python log-decluster.py
